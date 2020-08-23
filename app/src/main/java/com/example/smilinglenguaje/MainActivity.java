@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private CardView jugar,quiz,usuarios,informacion,traductor;
 
-  //  Fragment fragmentinicio;
+  Fragment fragmentinicio;
 
 ////   // private static int AUNT_REQUEST_CODE = 7192;
 //private FirebaseAuth firebaseAuth;
