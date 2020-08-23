@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569176154239",
+    "firebase_url": "https://smilinglenguaje.firebaseio.com",
+    "project_id": "smilinglenguaje",
+    "storage_bucket": "smilinglenguaje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569176154239:android:83a80db61ea98fc8dfdf4a",
+        "android_client_info": {
+          "package_name": "com.example.smilinglenguaje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569176154239-ddmtg1746vivkbev3n8ltq5jll7p71hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smilinglenguaje",
+            "certificate_hash": "a5d0ea682a7ef6d46c986d73163896f4a411b6e4"
+          }
+        },
+        {
+          "client_id": "569176154239-jojl4aj9iv8e7a4okvf4gqf22hk12dc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHX9eNDxSJWurxJFGp2a5Kr2MCa-b1-xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569176154239-jojl4aj9iv8e7a4okvf4gqf22hk12dc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
